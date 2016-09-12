@@ -4,9 +4,9 @@ A solution grouping StratisBitcoinFullNode &amp; NStratis projects for dev simpl
 
 Local Cloned Stratis Repos
 
-C:/GitHub/NStratis
-C:/GitHub/StratisBitcoinFullNode
+#C:/GitHub/NStratis
+#C:/GitHub/StratisBitcoinFullNode
 
 This solution
 
-C:/GitHub/StratisDevSolution
+#C:/GitHub/StratisDevSolution
